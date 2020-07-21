@@ -1,2 +1,6 @@
 qazxcvbnm
 qazwsxedcrfvtgbyhnujmikolp
+ssh-keygen -t rsa -C "zhhybhjl@163.com"
+$ git remote add origin git@github.com:Upeveryday01/learngit.git
+
+$git remote add origin git@github.com:Upeveryday01/gogogo.git
